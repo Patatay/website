@@ -103,6 +103,13 @@ contributions:
       url: https://www.openprocessing.org/user/98765
     url: https://www.openprocessing.org/sketch/459864
     source: https://www.openprocessing.org/sketch/459864
+   - title: "flying type"
+    author:
+      name: "Maciej Rackiewicz"
+      url: https://glitch.com/dashboard?group=owned&sortColumn=boost&sortDirection=DESC&page=1&showAll=false&filterDomain=
+    url: https://glitch.com/dashboard?group=owned&sortColumn=boost&sortDirection=DESC&page=1&showAll=false&filterDomain=
+    source: https://codepen.io/Maciej_R/pen/WNoXwPm
+    
 ---
 
 In this coding challenge, I explore the concept of a simple particle system and attempt to create a smoke effect with the p5.js library.
